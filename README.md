@@ -9,4 +9,4 @@ The idea is simple: a mini chat that asks the user what they need today to train
 
 ## 🖼️ Chat Preview
 
-![Bot Screenshot](assets/botonic-chat.png)
+![Bot Screenshot](src/assets/botonic-chat.png)
