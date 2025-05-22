@@ -1,0 +1,26 @@
+.botonic-webchat {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 16px;
+}
+
+.botonic-message.botonic-from-bot {
+  background-color: #e0f7fa;
+  border-radius: 12px;
+  padding: 10px;
+  color: #004d40;
+}
+
+.botonic-message.botonic-from-user {
+  background-color: #dcedc8;
+  border-radius: 12px;
+  padding: 10px;
+  color: #33691e;
+}
+
+.botonic-reply-button {
+  background-color: #00796b;
+  color: white;
+  border-radius: 8px;
+  margin: 4px;
+  padding: 6px 12px;
+}
